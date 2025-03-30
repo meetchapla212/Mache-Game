@@ -1,0 +1,221 @@
+
+/* open card start*/
+
+.opencard_0 {
+	left: -12px !important;
+	top: -44px !important;
+	opacity: 1 !important;
+}
+.opencard_11 {
+	left: -12px !important;
+	top: -14px !important;
+	opacity: 1 !important;
+}
+
+
+.opencard_1 {
+	left: 3px !important;
+	top: -44px !important;
+	opacity: 1 !important;
+}
+.opencard_12 {
+	left: 3px !important;
+	top: -14px !important;
+	opacity: 1 !important;
+}
+
+
+.opencard_2 {
+	left: 18px !important;
+	top: -44px !important;
+	opacity: 1 !important;
+}
+.opencard_13 {
+	left: 18px !important;
+	top: -14px !important;
+	opacity: 1 !important;
+}
+
+
+.opencard_3 {
+	left: 33px !important;
+	top: -44px !important;
+	opacity: 1 !important;
+}
+.opencard_14 {
+	left: 33px !important;
+	top: -14px !important;
+	opacity: 1 !important;
+}
+
+
+.opencard_4 {
+	left: 48px !important;
+	top: -44px !important;
+	opacity: 1 !important;
+}
+.opencard_15 {
+	left: 48px !important;
+	top: -14px !important;
+	opacity: 1 !important;
+}
+
+
+.opencard_5 {
+	left: 63px !important;
+	top: -44px !important;
+	opacity: 1 !important;
+}
+.opencard_16 {
+	left: 63px !important;
+	top: -14px !important;
+	opacity: 1 !important;
+}
+
+
+.opencard_6 {
+	left: 78px !important;
+	top: -44px !important;
+	opacity: 1 !important;
+}
+.opencard_17 {
+	left: 78px !important;
+	top: -14px !important;
+	opacity: 1 !important;
+}
+
+.opencard_7 {
+	left: 93px !important;
+	top: -44px !important;
+	opacity: 1 !important;
+}
+.opencard_18 {
+	left: 93px !important;
+	top: -14px !important;
+	opacity: 1 !important;
+}
+
+.opencard_8 {
+	left: 108px !important;
+	top: -44px !important;
+	opacity: 1 !important;
+}
+.opencard_19 {
+	left: 108px !important;
+	top: -14px !important;
+	opacity: 1 !important;
+}
+
+.opencard_9 {
+	left: 123px !important;
+	top: -44px !important;
+	opacity: 1 !important;
+}
+.opencard_20 {
+	left: 123px !important;
+	top: -14px !important;
+	opacity: 1 !important;
+}
+
+.opencard_10 {
+	left: 138px !important;
+	top: -44px !important;
+	opacity: 1 !important;
+}
+.opencard_21 {
+	left: 138px !important;
+	top: -14px !important;
+	opacity: 1 !important;
+}
+
+
+/* open card stop*/
+
+/* close card start*/
+
+.closecard_0 {
+	left:-5px !important
+}
+
+
+.closecard_1 {
+	left: 0px !important;
+}
+.closecard_12 {
+	left: 0px !important;
+	top: -15px !important
+}
+
+.closecard_2 {
+	left: 5px !important;
+}
+.closecard_3 {
+	left: 10px !important;
+}
+.closecard_4 {
+	left: 15px !important;
+}
+.closecard_5 {
+	left: 20px !important;
+}
+.closecard_6 {
+	left: 25px !important;
+}
+.closecard_7 {
+	left: 30px !important;
+}
+.closecard_8 {
+	left: 35px !important;
+}
+.closecard_9 {
+	left: 40px !important;
+}
+.closecard_10 {
+	left: 45px !important;
+}
+.closecard_11 {
+	left: 50px !important;
+}
+.closecard_12 {
+	left: 55px !important;
+}
+.closecard_13 {
+	left: 60px !important;
+}
+.closecard_14 {
+	left: 60px !important;
+}
+.closecard_15 {
+	left: 70px !important;
+}
+.closecard_16 {
+	left: 75px !important;
+}
+.closecard_17 {
+	left: 80px !important;
+}
+.closecard_18 {
+	left: 85px !important;
+}
+.closecard_19 {
+	left: 90px !important;
+}
+.closecard_20 {
+	left: 95px !important;
+}
+
+/* close card stop*/
+
+/*open card potion */
+
+@keyframes first_card_move {
+	0%   {transform: translate(0%, 0%);z-index: 99;}
+	99%  {z-index: 99;}
+	100% {transform: translate(0%, -104%);z-index: 99;}
+}
+@-webkit-keyframes first_card_move {
+	0%   {-webkit-transform: translate(0%, 0%);z-index: 99;}
+	99%  {z-index: 99;}
+	100% {-webkit-transform: translate(0%, -104%);z-index: 99;}
+}
+

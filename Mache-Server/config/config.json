@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "root",
+    "database": "postgres",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": "5432"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "root",
+    "database": "uno_card",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": "5432"
+  },
+  "production": {
+    "username": "pm_rootmaster",
+    "password": "24zqP3&pXOqn",
+    "database": "machegame_main",
+    "host": "potatomath-main.csnp9nttgmlr.ap-southeast-1.rds.amazonaws.com",
+    "dialect": "postgres",
+    "port": "5432"
+  }
+}

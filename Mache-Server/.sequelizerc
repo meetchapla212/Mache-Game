@@ -1,0 +1,18 @@
+// .sequelizerc
+// https://sequelize.org/master/manual/migrations.html
+
+const path = require('path');
+
+// for development
+
+module.exports = {
+  'env': 'development',
+};
+
+// for production
+
+/* 
+module.exports = {
+  'env': 'production',
+};
+*/
